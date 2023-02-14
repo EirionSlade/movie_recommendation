@@ -1,4 +1,4 @@
-# Capstone Project: Internal Mail System: slademail.com
+# Movie Recommendation System Using Natural Language Processing
 
 ## Table of contents
 
